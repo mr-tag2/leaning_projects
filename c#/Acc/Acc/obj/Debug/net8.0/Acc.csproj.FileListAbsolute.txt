@@ -1,0 +1,14 @@
+D:\Prj\_leaning\c#\Acc\Acc\bin\Debug\net8.0\Acc.exe
+D:\Prj\_leaning\c#\Acc\Acc\bin\Debug\net8.0\Acc.deps.json
+D:\Prj\_leaning\c#\Acc\Acc\bin\Debug\net8.0\Acc.runtimeconfig.json
+D:\Prj\_leaning\c#\Acc\Acc\bin\Debug\net8.0\Acc.dll
+D:\Prj\_leaning\c#\Acc\Acc\bin\Debug\net8.0\Acc.pdb
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\Acc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\Acc.AssemblyInfoInputs.cache
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\Acc.AssemblyInfo.cs
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\Acc.csproj.CoreCompileInputs.cache
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\Acc.dll
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\refint\Acc.dll
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\Acc.pdb
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\Acc.genruntimeconfig.cache
+D:\Prj\_leaning\c#\Acc\Acc\obj\Debug\net8.0\ref\Acc.dll
