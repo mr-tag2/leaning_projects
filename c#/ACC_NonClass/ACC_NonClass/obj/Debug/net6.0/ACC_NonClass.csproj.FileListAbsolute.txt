@@ -1,0 +1,15 @@
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\bin\Debug\net6.0\ACC_NonClass.exe
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\bin\Debug\net6.0\ACC_NonClass.deps.json
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\bin\Debug\net6.0\ACC_NonClass.runtimeconfig.json
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\bin\Debug\net6.0\ACC_NonClass.dll
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\bin\Debug\net6.0\ACC_NonClass.pdb
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.AssemblyInfoInputs.cache
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.AssemblyInfo.cs
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.csproj.CoreCompileInputs.cache
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.sourcelink.json
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.dll
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\refint\ACC_NonClass.dll
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.pdb
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ACC_NonClass.genruntimeconfig.cache
+D:\Projects\leaning_projects\c#\ACC_NonClass\ACC_NonClass\obj\Debug\net6.0\ref\ACC_NonClass.dll
