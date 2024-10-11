@@ -22,15 +22,19 @@ namespace WindowsFormsApplication2
         {
             Transaction list = new Transaction();
 
-            list.title = textTitle.Text;
-            list.value= Convert.ToDecimal(textPrice.Text);
-            list.description = richText.Text;
+            list.Title = textTitle.Text;
+            list.Value = Convert.ToDecimal(textPrice.Text);
+            list.Description = richText.Text;
 
             Form1.trans.Add(list);
             this.Close();
 
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
 
+        }
     }
 }

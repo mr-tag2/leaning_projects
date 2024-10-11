@@ -9,3 +9,4 @@ D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\AccWinForms.cs
 D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\AccWinForms.csproj.CoreCompileInputs.cache
 D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication2.exe
 D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication2.pdb
+D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication2.Form3.resources

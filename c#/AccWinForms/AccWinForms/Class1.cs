@@ -9,8 +9,8 @@ namespace WindowsFormsApplication2
     public class Transaction
 
     {
-        public string title;
-        public decimal value;
-        public string description;
+        public string Title { get; set; }
+        public decimal Value { get; set; }
+        public string Description { get; set; }
     }
 }
