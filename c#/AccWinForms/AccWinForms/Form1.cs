@@ -23,13 +23,13 @@ namespace WindowsFormsApplication2
         private void button3_Click(object sender, EventArgs e)
         {
             Form2 Form2 = new Form2();
-            Form2.Show();
+            Form2.ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Form3 Form3 = new Form3();
-            Form3.Show();
+            Form3.ShowDialog();
         }
     }
 }
