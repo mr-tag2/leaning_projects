@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|D:\\Projects\\leaning_projects\\c#\\AccWinForms\\accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|D:\\Projects\\leaning_projects\\c#\\AccWinForms\\accwinforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -70,8 +70,7 @@
               "RelativeToolTip": "AccWinForms\\Form3.Designer.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:58:25.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:58:25.596Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "AccWinForms\\Form3.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:58:14.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:58:14.113Z"
             },
             {
               "$type": "Document",
@@ -95,8 +93,7 @@
               "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.cs [Design]",
               "RelativeToolTip": "AccWinForms\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:56:33.708Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-11T15:56:33.708Z"
             },
             {
               "$type": "Document",
@@ -106,7 +103,7 @@
               "RelativeDocumentMoniker": "AccWinForms\\Form1.cs",
               "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs",
               "RelativeToolTip": "AccWinForms\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T15:55:56.673Z",
               "EditorCaption": ""
@@ -121,8 +118,7 @@
               "RelativeToolTip": "AccWinForms\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:55:45.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:55:45.089Z"
             },
             {
               "$type": "Document",
@@ -156,8 +152,7 @@
               "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs [Design]",
               "RelativeToolTip": "AccWinForms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:54:56.055Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-11T15:54:56.055Z"
             }
           ]
         }
