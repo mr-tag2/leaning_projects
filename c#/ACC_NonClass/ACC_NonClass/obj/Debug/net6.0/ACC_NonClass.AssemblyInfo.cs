@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACC_NonClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb3f5f8861ac96c4fb930a36bffd838097ac08e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fcd14cc75e0e6da6f8d9bfe586500ea9bb961a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACC_NonClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACC_NonClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
