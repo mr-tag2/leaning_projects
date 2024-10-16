@@ -3,7 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AccWinForms||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|D:\\Projects\\leaning_projects\\c#\\AccWinForms\\accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -37,6 +40,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|D:\\Projects\\leaning_projects\\c#\\AccWinForms\\accwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +52,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AccWinForms",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\AccWinForms.csproj",
+              "RelativeDocumentMoniker": "AccWinForms\\AccWinForms.csproj",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\AccWinForms.csproj",
+              "RelativeToolTip": "AccWinForms\\AccWinForms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T15:36:37.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Class1.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Class1.cs",
@@ -62,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form3.Designer.cs",
@@ -74,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form3.cs",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form3.cs",
@@ -86,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form3.cs",
@@ -97,20 +115,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form1.cs",
               "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs",
               "RelativeToolTip": "AccWinForms\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:55:56.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:55:56.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form1.Designer.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form2.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form2.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form2.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form2.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "AccWinForms\\Form1.cs",
